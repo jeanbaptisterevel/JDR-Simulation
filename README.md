@@ -2,8 +2,8 @@
 
 ## <p style="text-align: center; color: #4798D0"> Objectives </p>
 
-The purpose of the project is to be able to simulate the damage taken by characters based on their class,
-equipment, and statistics in a role-playing game world whose rules are derived from
+The purpose of the project is to be able to simulate the damage taken, dealed or healed by characters based on their class,
+equipment, and statistics fighting with target dummies in a role-playing game world whose rules are derived from
 a real tabletop role-playing game.
 
 ## <p style="text-align: center; color: #4798D0"> Technical specifications </p>
